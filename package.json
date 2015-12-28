@@ -1,0 +1,23 @@
+{
+  "name": "quad-tree",
+  "version": "1.0.0",
+  "description": "just a quadtree",
+  "main": "qt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyler-Anderson/quad-tree.git"
+  },
+  "keywords": [
+    "quadtree",
+    "tree"
+  ],
+  "author": "Tyler Anderson <tyler@brava.do> (http://brava.do)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyler-Anderson/quad-tree/issues"
+  },
+  "homepage": "https://github.com/Tyler-Anderson/quad-tree#readme"
+}
